@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "maxoutsmp.aternos.me",
-    "port": 60067,
-    "version": "1.21.1",
+    "ip": "crafthubmcDT.aternos.me",
+    "port": 39245,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
