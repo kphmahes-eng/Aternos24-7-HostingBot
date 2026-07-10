@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "droxy1234",
+    "username": "serverprotector",
+    "password": "ggs1234",
     "type": "offline"
   },
   "server": {
-    "ip": "crafthubmcDT.aternos.me",
-    "port": 39245,
+    "ip": "crafthubmcDT.exaroton.me",
+    "port": 64173,
     "version": "1.21.11",
     "try-creative": false
   },
